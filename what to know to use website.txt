@@ -1,0 +1,9 @@
+- import database as 'loginsystem' so that the program connects to the correct database;
+
+- all passwords have been hashed for security, create a new account or the following login details:
+
+username:tracey
+or email
+tracey@gmail.com
+
+password: tracey1997
